@@ -3,6 +3,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class Main {
+    public static boolean gameFlag = true;
     public static void main(String[] args) {
 
         DeckofCards baralho; //inicializando o objeto baralho da class deckofcards
